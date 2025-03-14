@@ -11,7 +11,7 @@ export default function ServiceDetails({ serviceItem }) {
             <div className="col-12 col-lg-8">
               <div className="service-details-image">
                 <Image
-                  src="/assets/img/service/details-1.jpg"
+                  src="/assets/img/service/details-1.webp"
                   width={740}
                   height={336}
                   alt="img"
@@ -38,7 +38,7 @@ export default function ServiceDetails({ serviceItem }) {
                   <div className="col-lg-7">
                     <div className="service-details-image">
                       <Image
-                        src="/assets/img/service/details-2.jpg"
+                        src="/assets/img/service/details-2.webp"
                         width={413}
                         height={265}
                         alt="img"

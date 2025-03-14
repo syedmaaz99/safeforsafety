@@ -178,7 +178,7 @@ export const services = [
   },
   {
     id: 20,
-    image: "/assets/img/service/06.jpg",
+    image: "/assets/img/service/06.webp",
     icon: "/assets/img/icon/07.svg",
     number: "04",
     title: "Smart Technology",
@@ -187,7 +187,7 @@ export const services = [
   },
   {
     id: 21,
-    image: "/assets/img/service/07.jpg",
+    image: "/assets/img/service/07.webp",
     icon: "/assets/img/icon/08.svg",
     number: "05",
     title: "Best Engineering",
@@ -196,7 +196,7 @@ export const services = [
   },
   {
     id: 22,
-    image: "/assets/img/service/08.jpg",
+    image: "/assets/img/service/08.webp",
     icon: "/assets/img/icon/09.svg",
     number: "06",
     title: "Chemical Research",

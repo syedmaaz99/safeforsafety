@@ -11,7 +11,7 @@ export default function ProjectDetails({ projectItem }) {
               <div className="project-details-items">
                 <div className="details-image">
                   <Image
-                    src="/assets/img/project/details-1.jpg"
+                    src="/assets/img/project/details-1.webp"
                     width={1170}
                     height={556}
                     alt="img"
@@ -129,7 +129,7 @@ export default function ProjectDetails({ projectItem }) {
                       </p>
                       <div className="details-image">
                         <Image
-                          src="/assets/img/project/details-2.jpg"
+                          src="/assets/img/project/details-2.webp"
                           alt="img"
                           width={570}
                           height={309}

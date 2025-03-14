@@ -53,7 +53,7 @@ export default function page() {
             </div>
             <div className="breadcrumb-image">
               <Image
-                src="/assets/img/breadcrumb-image.png"
+                src="/assets/img/breadcrumb-image.webp"
                 width={540}
                 height={450}
                 alt="img"
